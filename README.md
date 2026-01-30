@@ -1,41 +1,9 @@
 # Excel-Project---Amazon-sales-dashboard
-Objectives
+Project Overview
+This project analyzes Amazon sales data using Microsoft Excel to uncover sales trends, product performance, and key business insights. An interactive dashboard was created to help stakeholders make data-driven decisions.
 
-Analyze sales performance across different products and categories
+Objectives : Analyze sales performance across different products and categories, Identify top-performing and low-performing products, Track revenue trends over time, Understand order volume and customer purchasing patterns, Create an interactive dashboard for quick insights
 
-Identify top-performing and low-performing products
+Tools & Techniques Used : Microsoft Excel, Data Cleaning & Preprocessing, Pivot Tables & Pivot Charts, Power Query (for data transformation), Advanced Excel Functions (VLOOKUP/XLOOKUP, IF, SUMIFS, COUNTIFS), Slicers & Timelines for interactivity, Conditional Formatting
 
-Track revenue trends over time
-
-Understand order volume and customer purchasing patterns
-
-Create an interactive dashboard for quick insights
-Tools & Techniques Used
-
-Microsoft Excel
-
-Data Cleaning & Preprocessing
-
-Pivot Tables & Pivot Charts
-
-Power Query (for data transformation)
-
-Advanced Excel Functions (VLOOKUP/XLOOKUP, IF, SUMIFS, COUNTIFS)
-
-Slicers & Timelines for interactivity
-
-Conditional Formatting
-
-Dashboard Features
-
-Total Sales, Orders, and Revenue KPIs
-
-Monthly & yearly sales trend analysis
-
-Category-wise and product-wise sales performance
-
-Top 10 products by revenue
-
-Region-wise sales analysis
-
-Interactive filters for dynamic data exploration
+Dashboard Features : Total Sales, Orders, and Revenue KPIs, Monthly & yearly sales trend analysis, Category-wise and product-wise sales performance, Top 10 products by revenue, Region-wise sales analysis, Interactive filters for dynamic data exploration
